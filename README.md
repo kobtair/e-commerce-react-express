@@ -99,8 +99,6 @@ Access the website in your browser by visiting http://localhost:3000.
 
 ## Contributing
 
-If you would like to contribute to this project, feel free to submit a pull request. Please follow the [contribution guidelines](CONTRIBUTING.md).
+If you would like to contribute to this project, feel free to submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
